@@ -1,5 +1,12 @@
-# MCI WING
+<h1 align="center">MCI | Wirtschaftsingenieurwesen</h1>
 
-Repositories of the MCI WING department related to data science.
+<p align="center">
+  <img src="assets/logo.png" alt="MCI | WING Logo" width="200">
+</p>
 
-🚧 work in progress 🚧
+
+### Course: Mathematics & IT ➡ [Get started!](https://mciwing.github.io/)
+
+- Data Basics
+- Python Crash Course
+- Statistics
