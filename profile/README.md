@@ -9,4 +9,7 @@
 
 - Data Basics
 - Python Crash Course
+- Python Extensive Course
 - Statistics
+- Data Science
+- Computer Vision
