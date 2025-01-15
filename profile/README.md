@@ -1,4 +1,4 @@
-<h1 align="center">MCI | Wirtschaftsingenieurwesen</h1>
+<h1 align="center">MCI | Industrial Engineering & Management</h1>
 
 <p align="center">
   <img src="assets/logo.png" alt="MCI | WING Logo" width="200">
