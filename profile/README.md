@@ -22,6 +22,7 @@ Here's the full list of courses:
 - [Statistics](https://mciwing.github.io/statistics/)
 - [Data Science](https://mciwing.github.io/data-science/)
 - [Computer Vision](https://mciwing.github.io/yolo/)
+- [MicroPython](https://mciwing.github.io/micropython/)
 
 > [!NOTE]
 > All courses are constantly updated and improved! We offer course material for beginners and more advanced programmers alike. 🚀
