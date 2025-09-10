@@ -3,11 +3,7 @@
 
   <h2>Dive into the world of Python! 🌍</h2>
 
-  <img src="assets/screenshot.png" height=400px>
-
 </div>
-
----
 
 ## Visit Us
 
