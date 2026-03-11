@@ -1,22 +1,20 @@
 <div align="center">
   <h1> Code Campus </h1>
-  <img src="assets/icon.PNG" width="220px"</img>
-  <h2>Dive into the world of Python! 🌍</h2>
-
 </div>
 
 ## Visit Us
 
 > [!NOTE]
-> We offer multiple *free* courses on our Code Campus page [here](https://code-campus.at/)!
+> We offer multiple *free* courses centered around the Python programming
+> language on our Code Campus page [here](https://code-campus.at/)!
 
 ##  Courses
 
 All courses are constantly updated and improved! We offer course material for 
 beginners and more advanced programmers alike. 🚀
 
-| Course                           | Link                                                          |
-|----------------------------------|---------------------------------------------------------------|
+| Course                           | Link                                                       |
+|----------------------------------|------------------------------------------------------------|
 | 🐍 **Python Crash Course**       | [Start Learning](https://code-campus.at/python/)           |
 | 🐍🐍 **Python Extensive Course** | [Start Learning](https://code-campus.at/python-extensive/) |
 | 📊 **Statistics**                | [Start Learning](https://code-campus.at/statistics/)       |
